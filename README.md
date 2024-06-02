@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashif Husain</h1>
 <h3 align="center">A passionate backend DotNet developer from India</h3>
-<video width="400px" height="269px">
-  <source src="https://github.com/ashifhusainoo7/ashifhusainoo7/blob/main/App.js.mp4" type="video/mp4">
-</video>
+<img src="https://github.com/ashifhusainoo7/ashifhusainoo7/blob/main/App.js-ezgif.com-resize.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashifhusainoo7&label=Profile%20views&color=0e75b6&style=flat" alt="ashifhusainoo7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashifhusainoo7" alt="ashifhusainoo7" /></a> </p>
