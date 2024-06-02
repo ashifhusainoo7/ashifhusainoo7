@@ -1,3 +1,4 @@
+![logo](https://github.com/ashifhusainoo7/ashifhusainoo7/blob/main/My%20first%20design%20(1).png)
 <h1 align="center">Hi 👋, I'm Ashif Husain</h1>
 <h3 align="center">A passionate backend DotNet developer from India</h3>
 <img align="right" src="https://github.com/ashifhusainoo7/ashifhusainoo7/blob/main/App.js-ezgif.com-resize.gif" alt="About Self" width="400px"/>
