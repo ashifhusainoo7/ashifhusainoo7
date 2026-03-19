@@ -6,19 +6,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashifhusainoo7" alt="ashifhusainoo7" /></a> </p>
 
-- 🔭 I’m currently working on **Bridge AI Integration and Minimal API based project**
+🔭 I’m currently working on **AI Integrations with .NET (Bridge AI) and Minimal API-based backend systems**
 
-- 🌱 I’m currently learning **DSA,React js and Next Js**
+🌱 I’m currently learning **Agentic Systems, Multi-Agent Architectures, and LLM-powered Applications**
 
-- 👯 I’m looking to collaborate on **AI Related project based on DotNet Core**
+👯 I’m looking to collaborate on **AI-driven projects using .NET Core and modern web technologies**
 
-- 🤝 I’m looking for help with **Next Js and Machine Learning**
+💬 Ask me about **HTML, CSS, JavaScript, jQuery, C#,.NET Core and Artificial Intelligence**
 
-- 💬 Ask me about **Html, Javascript, JQuery DotNet Core**
+📫 How to reach me: **mdashifhusain@gmail.com**
 
-- 📫 How to reach me **mdashifhusain@gmail.com**
-
-- ⚡ Fun fact **I thik Code is an state of Art but rare**
+⚡ Fun fact: I see **coding as a form of art — clean, structured, and expressive**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
