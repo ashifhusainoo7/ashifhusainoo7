@@ -4,7 +4,6 @@
 <img align="right" src="https://github.com/ashifhusainoo7/ashifhusainoo7/blob/main/App.js-ezgif.com-resize.gif" alt="About Self" width="400px"/>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashifhusainoo7" alt="ashifhusainoo7" /></a> </p>
 
 🔭 I’m currently working on **AI Integrations with .NET (Bridge AI) and Minimal API-based backend systems**
 
