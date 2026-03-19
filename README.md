@@ -1,6 +1,6 @@
-![logo](https://github.com/ashifhusainoo7/ashifhusainoo7/blob/main/My%20first%20design%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Ashif Husain</h1>
-<h3 align="center">A passionate backend DotNet developer from India</h3>
+<h3 align="center">Passionate Backend .NET Developer from India, building scalable systems and exploring AI-powered & Agentic architectures</h3>
 <img align="right" src="https://github.com/ashifhusainoo7/ashifhusainoo7/blob/main/App.js-ezgif.com-resize.gif" alt="About Self" width="400px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashifhusainoo7&label=Profile%20views&color=0e75b6&style=flat" alt="ashifhusainoo7" /> </p>
 
